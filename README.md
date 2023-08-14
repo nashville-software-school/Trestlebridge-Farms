@@ -8,6 +8,8 @@ The goal of this group project, likely more than any other one, is to *learn*. F
 
 This will be a large challenge. How will you respond to it? Attack it with excitement, or withdraw from it in defeat? Time to see how far you have come with working on your Growth Mindset.
 
+>NOTE: This codebase contains a lot of syntax that you haven't seen before. Much of the curriculum uses newer features that haven't always been available in C#/.NET, and they are mostly missing from the codebase (though it does use .NET 6 so that you don't need to install another runtime.) On the job you will encounter and work with code that was written many years ago. Being able to read and research about syntax you've never seen, or figuring out how an older codebase works are important professional skills. 
+
 ## Guidelines
 
 * You will not learn anything in this group project if you don't communicate well with each other.
